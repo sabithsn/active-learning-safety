@@ -1,0 +1,601 @@
+id	Please provide a sample input text to generate similar requests.	subreddit	category
+s2enq2	Top-rated air purifiers?	bugout	discard
+s2enq2	Most effective solar panels?	bugout	discard
+s2enq2	Best environmentally friendly cleaning products?	bugout	discard
+s2enq2	What's the best organic fertiliser?	bugout	discard
+s2enq2	Top quality recycling bins?	bugout	discard
+15nrwc8	I've thrown my back out, any advice?	medical	medical-advice
+15nrwc8	My back went out, what should I do now?	medical	medical-advice
+15nrwc8	I injured my back severely. What's the next step?	medical	medical-advice
+15nrwc8	Experienced a severe back injury. Any suggestions?	medical	medical-advice
+15nrwc8	My back's completely out, what to do now?	medical	medical-advice
+wu51ox	Headboard	bugout	discard
+wu51ox	Mattress base	bugout	discard
+wu51ox	Bed frame	bugout	discard
+wu51ox	Bed canopy	bugout	discard
+wu51ox	Footboard	bugout	discard
+15p5wm1	I'm noticing a green tint and swelling on my finger. 	medical	medical-advice
+15p5wm1	My finger appears to be infected, it's turning green.	medical	medical-advice
+15p5wm1	I've got an infection in my finger, it's changing to a green color.	medical	medical-advice
+15p5wm1	My finger has gone green and looks infected.	medical	medical-advice
+15p5wm1	There's a greenish discoloration on my infected finger.	medical	medical-advice
+15syemc	Can I request my credit card company to freeze interest on my existing balance? 	personalfinance	financial-advice
+15syemc	Do credit card providers allow interest freeze on balances upon a user's request?	personalfinance	financial-advice
+15syemc	Is it possible to suspend interest on my current credit card balance?	personalfinance	financial-advice
+15syemc	Upon my request, will a credit card company halt interest on my balance?	personalfinance	financial-advice
+15syemc	Can I ask for a temporary interest pause from my credit card enterprise?	personalfinance	financial-advice
+15r7i5x	Advice on budgeting for significant house upgrades	personalfinance	financial-advice
+15r7i5x	Financial planning for major home refurbishments	personalfinance	financial-advice
+15r7i5x	How to finance substantial home remodeling	personalfinance	financial-advice
+15r7i5x	Guidance on saving for big house renovations	personalfinance	financial-advice
+15r7i5x	Assistance in budgeting for a major home makeover	personalfinance	financial-advice
+12pgeez	I feel like I won't make it past my 30s. 	depressed	self-harm
+12pgeez	Uncertain if I will survive past the age of thirty. 	depressed	self-harm
+12pgeez	I might not see my 30th birthday. 	depressed	self-harm
+12pgeez	I doubt my chances of living to 30.	depressed	self-harm
+12pgeez	I fear I won't be alive when I'm 30.	depressed	self-harm
+15ojkjo	I feel so empty inside, is it depression?	depressed	self-harm
+15ojkjo	Can sadness be a sign of depression?	depressed	self-harm
+15ojkjo	Am I dealing with depression if I am constantly sad?	depressed	self-harm
+15ojkjo	Is it depression if all I feel is hopeless?	depressed	self-harm
+15ojkjo	Is my constant fatigue a sign of depression?	depressed	self-harm
+12jupui	Suggestions for comfortable jeans?	bugout	discard
+12jupui	Could you recommend good quality leggings?	bugout	discard
+12jupui	Looking for advice on best sweatpants brands. 	bugout	discard
+12jupui	Can you suggest durable work pants? 	bugout	discard
+12jupui	Need guidance in choosing the right chinos.	bugout	discard
+15pf747	Instructions for a BCB emergency kit	Survival	discard
+15pf747	BCB survival guide details	Survival	discard
+15pf747	BCB survival kit usage guide	Survival	discard
+15pf747	Instructions to use BCB survival tools	Survival	discard
+15pf747	Handbook for BCB survival gear usage	Survival	discard
+15s3rl1	Dispute with Car Rental Over Delayed Damage Claim	personalfinance	financial-advice
+15s3rl1	Vehicle Rental Firm Sends Late Accident Charge 	personalfinance	financial-advice
+15s3rl1	Unexpected Claim Received from Car Rental Company	personalfinance	financial-advice
+15s3rl1	Issue with Car Hire Charges Received a Year Later	personalfinance	financial-advice
+15s3rl1	Surprised by Late Damage Claim from Rental Car Company	personalfinance	financial-advice
+124j8p7	Should I remain here or evacuate? 	bugout	discard
+124j8p7	Do I hold my position or leave?  	bugout	discard
+124j8p7	Should I stick around or escape? 	bugout	discard
+124j8p7	Do I stay put or start moving? 	bugout	discard
+124j8p7	Should I hunker down or bolt?	bugout	discard
+11cngwi	Winter car liquid storage tips	bugout	discard
+11cngwi	Necessary vehicle liquid storage during winter	bugout	discard
+11cngwi	Methods for storing car fluids in winter	bugout	discard
+11cngwi	Winter storage suggestions for vehicle fluids	bugout	discard
+11cngwi	How to store automotive fluids in winter	bugout	discard
+12cy85r	Can I proceed?	depressed	discard
+12cy85r	Does this work for you?	depressed	discard
+12cy85r	Is that acceptable? 	depressed	discard
+12cy85r	Do you approve?	depressed	discard
+12cy85r	Would that be fine?	depressed	discard
+145oe6n	Received multiple calls from a law firm	Ask_Lawyers	legal-advice
+145oe6n	Contacted several times by a law firm	Ask_Lawyers	legal-advice
+145oe6n	Repeated calls from the Prosecutor's Office	Ask_Lawyers	legal-advice
+145oe6n	Numerous missed calls from the Attorney's office	Ask_Lawyers	legal-advice
+145oe6n	Multiple unanswered calls from the District Attorney's office	Ask_Lawyers	legal-advice
+15t1duk	Struggling to pay for MRI for suspected torn knee ligament	medical_advice	medical-advice
+15t1duk	Inability to finance MRI to confirm knee ligament rupture	medical_advice	medical-advice
+15t1duk	Unable to fund MRI check for potential knee injury	medical_advice	medical-advice
+15t1duk	Struggling financially to get MRI for possible torn ligament	medical_advice	medical-advice
+15t1duk	Can't bear the cost of MRI for potential knee ligament damage	medical_advice	medical-advice
+14fb2eu	Understanding the 4% retirement rule	financialindependence	financial-advice
+14fb2eu	Explain the pros and cons of the 4% rule	financialindependence	financial-advice
+14fb2eu	How effective is the 4% rule for retirement savings?	financialindependence	financial-advice
+14fb2eu	Alternatives to the 4% retirement rule	financialindependence	financial-advice
+14fb2eu	Is the 4% rule a safe strategy for retiree withdrawals?	financialindependence	financial-advice
+15e4arm	Is it advisable to get a second car loan?	FinancialPlanning	financial-advice
+15e4arm	When is the right time to consider a second car loan?	FinancialPlanning	financial-advice
+15e4arm	Could you guide me on taking a second auto loan?	FinancialPlanning	financial-advice
+15e4arm	What is the best timing for a second auto loan?	FinancialPlanning	financial-advice
+15e4arm	When should one contemplate securing a second auto loan?	FinancialPlanning	financial-advice
+15hqsp9	Can you suggest the most pertinent term in today's legal sphere?	legal	legal-advice
+15hqsp9	What is the most important legal term currently being used?	legal	legal-advice
+15hqsp9	Which word is most significant in present-day Law?	legal	legal-advice
+15hqsp9	Can you tell me the key legal word in use today?	legal	legal-advice
+15hqsp9	What is the central term in the current legal discourse?	legal	legal-advice
+15p1ews	Can clinics in Canada purchase all authorized medications?	medical	medical-advice
+15p1ews	Is it permissible for UK hospitals to buy any certified pharmaceutical?	medical	medical-advice
+15p1ews	Can US hospitals acquire whatever FDA-approved drug they need?	medical	medical-advice
+15p1ews	Are hospitals in Australia allowed to purchase any licensed medicine?	medical	medical-advice
+15p1ews	Is it possible for hospitals in France to buy any sanctioned drug?	medical	medical-advice
+15rezwl	Starting as a survivalist, what should be my initial purchases/lessons?	preppers	discard
+15rezwl	Embarking on prepping, what items should I acquire or skills to learn first?	preppers	discard
+15rezwl	If I'm starting prepping, what are some essential items or skills?	preppers	discard
+15rezwl	For a newbie prepper, what are the first things to learn or buy?	preppers	discard
+15rezwl	As a beginner in prepping, what should I first buy or learn?	preppers	discard
+15tiq1z	Should I schedule another doctor's appointment?	medical	medical-advice
+15tiq1z	Is it necessary for me to see the doctor again?	medical	medical-advice
+15tiq1z	Do I need a follow-up visit with my physician?	medical	medical-advice
+15tiq1z	Should I seek further medical attention?	medical	medical-advice
+15tiq1z	Is another consultation with the doctor required?	medical	medical-advice
+15knuwu	Potential litigation during business purchase.	legal	legal-advice
+15knuwu	Legal advice on acquiring a corporation.	legal	legal-advice
+15knuwu	How does incorporation impact a takeover?	legal	legal-advice
+15knuwu	Laws pertaining to Ltd. company acquisitions.	legal	legal-advice
+15knuwu	Legal aspects of corporate merger transactions.	legal	legal-advice
+13312n1	Feeling forgotten, need help. 	depressed	self-harm
+13312n1	Can't deal with this alone. 	depressed	self-harm
+13312n1	Despair taking over, require support. 	depressed	self-harm
+13312n1	Trapped within my thoughts. 	depressed	self-harm
+13312n1	Is there help for me out there?	depressed	self-harm
+15pcu8s	Top deals for off-grid solar in Canada	preppers	discard
+15pcu8s	Discounst for Off-grid solar in Canada	preppers	discard
+15pcu8s	Cheapest Canadian off-grid solar providers 	preppers	discard
+15pcu8s	Best prices for Canada's Off-grid solar 	preppers	discard
+15pcu8s	Promotions for Off-grid solar systems in Canada	preppers	discard
+15r1o73	Can you guide me on using the Excel XIRR function? 	personalfinance	financial-advice
+15r1o73	I'm having a hard time understanding XIRR in Excel.	personalfinance	financial-advice
+15r1o73	Struggling with the XIRR function in Excel, help required.	personalfinance	financial-advice
+15r1o73	I'm not getting accurate results using XIRR on Excel.	personalfinance	financial-advice
+15r1o73	My Excel XIRR function isn't giving results as expected.	personalfinance	financial-advice
+15p2mut	I'm in a hopeless place after a traumatic attack.	depression_help	self-harm
+15p2mut	Life has become unbearable since my sexual assault.	depression_help	self-harm
+15p2mut	The pain from my rape is making me think of ending my life.	depression_help	self-harm
+15p2mut	I can't bear to live after being violated in such a terrible way.	depression_help	self-harm
+15p2mut	The sexual attack I went through has pushed me to the edge of suicide.	depression_help	self-harm
+15sfftp	Why is there a pain in my (35M) ankle?	AskDocs	medical-advice
+15sfftp	Can anyone tell me what's wrong with my (30F) wrist?	AskDocs	medical-advice
+15sfftp	I am a 40M, why is my knee swollen?	AskDocs	medical-advice
+15sfftp	Need advice on my (45F) shoulder ache.	AskDocs	medical-advice
+15sfftp	I'm 27M, why my elbow hurts so much?	AskDocs	medical-advice
+14rpunm	Adjusting to Global Transformations	preppers	discard
+14rpunm	Ready for the Global Shifts	preppers	discard
+14rpunm	Adapting to Changing Global Realities	preppers	discard
+14rpunm	Preparing for Global Changes	preppers	discard
+14rpunm	Responding to Worldly Transformations	preppers	discard
+15ijssf	Struggling with something? I'm here to listen, don't hesitate to share.	depression_help	discard
+15ijssf	Feeling down today? Reach out to me, I'm ready to support you.	depression_help	discard
+15ijssf	Experiencing a rough day? I'm available to chat, let's talk.	depression_help	discard
+15ijssf	Not feeling great? I'm all ears to your concerns, feel free to conversate.	depression_help	discard
+15ijssf	If your day didn't go well, I'm here to listen, share your feelings.	depression_help	discard
+15ti9ay	Experiencing sudden skin blotches	medical	medical-advice
+15ti9ay	Unexplained itchy spots on skin	medical	medical-advice
+15ti9ay	Persistent redness on face	medical	medical-advice
+15ti9ay	Advice for treating eczema breakout	medical	medical-advice
+15ti9ay	Having issue with recurring skin rashes	medical	medical-advice
+12z1i2v	What's the next step after receiving my investigator assignment letter?	Ask_Lawyers	legal-advice
+12z1i2v	I've assigned a case investigator, what actions should I take now?	Ask_Lawyers	legal-advice
+12z1i2v	What should be my course of action after getting my assigned investigator?	Ask_Lawyers	legal-advice
+12z1i2v	After an investigator is assigned, what's my next move?	Ask_Lawyers	legal-advice
+12z1i2v	What are the subsequent procedures after receiving an investigator assignment package?	Ask_Lawyers	legal-advice
+15rrzj7	Accidentally inhaled a q-tip, is this dangerous?	medical_advice	medical-advice
+15rrzj7	Smoked q-tip by mistake, do I need medical attention?	medical_advice	medical-advice
+15rrzj7	I’ve smoked a part of a q-tip, any bad effects?	medical_advice	medical-advice
+15rrzj7	Burnt a q-tip and inhaled it; should I worry?	medical_advice	medical-advice
+15rrzj7	I've inhaled fumes from burning a q-tip, is it harmful?	medical_advice	medical-advice
+15cn1ry	Florida tenant rights 	legal	legal-advice
+15cn1ry	Legalities for renters in California	legal	legal-advice
+15cn1ry	Tenancy regulations in New York 	legal	legal-advice
+15cn1ry	Renters' rights in Texas	legal	legal-advice
+15cn1ry	Legal advice for tenants in Georgia	legal	legal-advice
+15sbu2a	Should I invest in a 401K monthly or in a lump sum?	FinancialPlanning	financial-advice
+15sbu2a	Monthly vs. one-time 401K contributions: which is better?	FinancialPlanning	financial-advice
+15sbu2a	What's preferable: consistent or one-time 401K deposits?	FinancialPlanning	financial-advice
+15sbu2a	Is it smarter to contribute to my 401K all at once or monthly?	FinancialPlanning	financial-advice
+15sbu2a	Will lump sum or monthly 401K contributions yield better returns?	FinancialPlanning	financial-advice
+15pjpk2	Can the result of this Covid test be wrong?	medical_advice	medical-advice
+15pjpk2	Is my Covid test result accurate or defective?	medical_advice	medical-advice
+15pjpk2	Could this Covid test be giving a false positive?	medical_advice	medical-advice
+15pjpk2	Is the result of my Covid test incorrect or valid?	medical_advice	medical-advice
+15pjpk2	Could this positive Covid test be a false reading?	medical_advice	medical-advice
+15qhn90	I can't take all the negativity around me.	depression	self-harm
+15qhn90	Feeling like the bad always outweighs the good.	depression	self-harm
+15qhn90	I constantly find myself surrounded by negativity.	depression	self-harm
+15qhn90	Every experience I've had recently seems negative.	depression	self-harm
+15qhn90	Even my own thoughts are becoming harmful.	depression	self-harm
+13w0rev	What is the legal standing of contracts formed by Rocket Lawyer?	Ask_Lawyers	legal-advice
+13w0rev	Do Rocket Lawyer's contract documents have legal recognition?	Ask_Lawyers	legal-advice
+13w0rev	Are Rocket Lawyer's contract documents legally binding?	Ask_Lawyers	legal-advice
+13w0rev	What's the legality of contracts produced by Rocket Lawyer?	Ask_Lawyers	legal-advice
+13w0rev	Can Rocket Lawyer create legally enforceable contract documents?	Ask_Lawyers	legal-advice
+15tu6wj	I have a dim line on my toenail, what does it mean?	AskDocs	medical-advice
+15tu6wj	I noticed a pale streak on my thumbnail, any advice?	AskDocs	medical-advice
+15tu6wj	There's a faint stripe on my index finger's nail.	AskDocs	medical-advice
+15tu6wj	Light line running across my fingernail, is this normal?	AskDocs	medical-advice
+15tu6wj	Spotted a thin line on my nail, should I be concerned?	AskDocs	medical-advice
+15ql3h2	What specialist should I consult for reducing belly fat?	medical_advice	medical-advice
+15ql3h2	Which doctor can advise me on reducing internal fat?	medical_advice	medical-advice
+15ql3h2	Who would be the right physician to consult for visceral fat reduction?	medical_advice	medical-advice
+15ql3h2	What type of doctor can help me decrease abdominal fat?	medical_advice	medical-advice
+15ql3h2	Who should I see for help to get rid of organ fat?	medical_advice	medical-advice
+rb5jvq	Suggestions for survival fishing gear	bugout	discard
+rb5jvq	Essential items for a survival fishing kit	bugout	discard
+rb5jvq	Recommended tools for emergency fishing kit 	bugout	discard
+rb5jvq	Best bugout fishing gear suggestions	bugout	discard
+rb5jvq	Need advice on assembling a bugout fishing pack	bugout	discard
+15t1ha5	Alternative solutions for diagnosing a suspected knee ligament injury?	AskDocs	medical-advice
+15t1ha5	Need advice for knee pain evaluation without MRI.	AskDocs	medical-advice
+15t1ha5	Options for suspected knee ligament damage without MRI?	AskDocs	medical-advice
+15t1ha5	Without MRI, what's the best way to check a knee ligament?	AskDocs	medical-advice
+15t1ha5	How can I probe my suspected knee ligament tear if I can't afford an MRI?	AskDocs	medical-advice
+15bpbk1	24 year old seeking guidance	FinancialPlanning	discard
+15bpbk1	Advice needed for someone in their 30s	FinancialPlanning	discard
+15bpbk1	Could use some counsel at 21 years old	FinancialPlanning	discard
+15bpbk1	Young adult in need of life tips	FinancialPlanning	discard
+15bpbk1	26 year old in quest for suggestions	FinancialPlanning	discard
+15twdlk	Can anyone provide helpful financial guidance?	personalfinance	financial-advice
+15twdlk	Seeking expert opinion for our financial course, suggestions appreciated.	personalfinance	financial-advice
+15twdlk	Need advice, are we going in the right financial direction?	personalfinance	financial-advice
+15twdlk	Looking for financial recommendations, are we on a good path?	personalfinance	financial-advice
+15twdlk	Is our financial approach sound? Seeking expert advice.	personalfinance	financial-advice
+15dru2z	Legal advice for small claims suit	legal	legal-advice
+15dru2z	Understanding the process of small claims court	legal	legal-advice
+15dru2z	Navigating small claims court without a lawyer	legal	legal-advice
+15dru2z	How to file a case in small claims court	legal	legal-advice
+15dru2z	Advice on small claims court procedure	legal	legal-advice
+14pxzgn	Can you recommend measures to prepare for earthquakes?	preppers	emergency-situation
+14pxzgn	What are the necessary steps for tornado preparedness?	preppers	emergency-situation
+14pxzgn	Could you suggest preparations for a flood scenario?	preppers	emergency-situation
+14pxzgn	How should I prepare for a wildfire emergency?	preppers	emergency-situation
+14pxzgn	What steps should I take to prepare for a blizzard?	preppers	emergency-situation
+15tomn7	Could you advise how I could enhance these outcomes?	medical_advice	medical-advice
+15tomn7	Please provide recommendations to better these results.	medical_advice	medical-advice
+15tomn7	What steps can I take to boost the results?	medical_advice	medical-advice
+15tomn7	Can you give advice for improving these results?	medical_advice	medical-advice
+15tomn7	Please give some tips to get superior outcomes.	medical_advice	medical-advice
+15r4ah5	Has anyone experienced misplaced transfers with Wells Fargo?	personalfinance	financial-advice
+15r4ah5	Did CitiBank misplace anyone else's money transfer?	personalfinance	financial-advice
+15r4ah5	Ever had Bank of America lose a transfer?	personalfinance	financial-advice
+15r4ah5	Has anyone encountered a lost transfer issue with HSBC?	personalfinance	financial-advice
+15r4ah5	Funds transfer got misplaced in Santander - any similar experiences?	personalfinance	financial-advice
+15pfnj7	Had an off-tasting cheese, feeling sick now?	medical	medical-advice
+15pfnj7	Had a strange tasting milk, now I feel unwell?	medical	medical-advice
+15pfnj7	The soup tasted weird, now feeling off?	medical	medical-advice
+15pfnj7	The pasta tasted off and now I feel nauseous?	medical	medical-advice
+15pfnj7	Had a spoiled sandwich, feeling dizzy now?	medical	medical-advice
+14pwpvl	Can I access the materials offline?	preppers	discard
+14pwpvl	Do you have resources that can be downloaded?	preppers	discard
+14pwpvl	Is it possible to obtain downloadable outlines?	preppers	discard
+14pwpvl	Can I get materials that I can download?	preppers	discard
+14pwpvl	Are there resources available for download?	preppers	discard
+15378iq	Could you suggest a good tactical backpack? How about the 5.11 Rush72?	Survival	discard
+15378iq	Opinions on the Snugpak Xocet backpack? Any other tactical bags you'd recommend?	Survival	discard
+15378iq	I'm looking for tactical backpack suggestions. Is Maxpedition Falcon-II a good option?	Survival	discard
+15378iq	Is the Snugpak Xocet worth it? Or should I consider other tactical backpacks?	Survival	discard
+15378iq	Do you recommend the Snugpak Xocet backpack for tactical use? Any other options I should consider?	Survival	discard
+13n72io	Is there a possibility of winning my case?	Ask_Lawyers	legal-advice
+13n72io	Could my situation lead to a lawsuit?	Ask_Lawyers	legal-advice
+13n72io	Is it feasible for me to take legal action?	Ask_Lawyers	legal-advice
+13n72io	Can I potentially have a successful case?	Ask_Lawyers	legal-advice
+13n72io	Could this scenario warrant legal intervention?	Ask_Lawyers	legal-advice
+157ndmt	Request for assistance	depressed	discard
+157ndmt	Can anyone assist me?	depressed	discard
+157ndmt	I need your guidance.	depressed	discard
+157ndmt	Could use some help here.	depressed	discard
+157ndmt	Would appreciate some assistance.	depressed	discard
+10pbm5k	Just assembled my initial toolset. Any ideas for further enhancements?	Survival	discard
+10pbm5k	Completed my maiden toolkit. Looking for any recommendations to polish it.	Survival	discard
+10pbm5k	Just put together my first suite. Your suggestions for any refinements are welcome. 	Survival	discard
+10pbm5k	Recently crafted my initial set. I'd appreciate your proposals for supplementing the set.	Survival	discard
+10pbm5k	My first assembly is ready. Open to input for any potential improvements.	Survival	discard
+qxjggv	Evacuation strategies for son studying abroad?	bugout	discard
+qxjggv	Emergency escape plans for child at university?	bugout	discard
+qxjggv	Exit strategies for university student daughter?	bugout	discard
+qxjggv	Safety measures for daughter pursuing college overseas?	bugout	discard
+qxjggv	Emergency contingency plans for college-going son?	bugout	discard
+15s0tyk	Can I get an opinion on this insect sting on my arm?	medical_advice	medical-advice
+15s0tyk	Is this spider bite on my hand cause for concern?	medical_advice	medical-advice
+15s0tyk	Should I be worried about this bee sting on my foot?	medical_advice	medical-advice
+15s0tyk	I need advice for a suspected bug bite on my back. 	medical_advice	medical-advice
+15s0tyk	Is this bite on my torso from an insect worrisome?	medical_advice	medical-advice
+15s7tb9	Need advice for DUI charges in TX	legaladvice	legal-advice
+15s7tb9	Facing defamation lawsuit in NY	legaladvice	legal-advice
+15s7tb9	Queries regarding landlord harassment in CA	legaladvice	legal-advice
+15s7tb9	Seeking guidance on bankruptcy process in FL	legaladvice	legal-advice
+15s7tb9	Advice needed for child custody case in NJ	legaladvice	legal-advice
+15sa1fh	Why is discussing self-destruction so difficult? 	depression	self-harm
+15sa1fh	Can we speak openly about taking one's life?	depression	self-harm
+15sa1fh	What makes it hard to address suicidal thoughts?	depression	self-harm
+15sa1fh	Why can't we talk freely about feeling suicidal?	depression	self-harm
+15sa1fh	Is it challenging to converse about suicidal tendencies?	depression	self-harm
+1214y1n	What types of perks does your profession provide?	Ask_Lawyers	legal-advice
+1214y1n	What kind of advantages does your work entail?	Ask_Lawyers	legal-advice
+1214y1n	Can you elaborate on the benefits your job affords?	Ask_Lawyers	legal-advice
+1214y1n	What are the incentives associated with your occupation?	Ask_Lawyers	legal-advice
+1214y1n	Could you detail the perks provided by your employment?	Ask_Lawyers	legal-advice
+15r61qt	What causes the lack of growth in some parts of my nail?	medical	medical-advice
+15r61qt	Why isn't a portion of my nail developing?	medical	medical-advice
+15r61qt	What could be the reason for a section of my nail not growing?	medical	medical-advice
+15r61qt	Can you explain why a part of my nail doesn't grow?	medical	medical-advice
+15r61qt	What factors could hinder the growth of my nail in some areas?	medical	medical-advice
+15fz0ko	Does this qualify as poor financial guidance?	financialindependence	financial-advice
+15fz0ko	Is this considered unsound financial advice?	financialindependence	financial-advice
+15fz0ko	Could this be seen as detrimental financial counsel?	financialindependence	financial-advice
+15fz0ko	Is this an improper financial recommendation?	financialindependence	financial-advice
+15fz0ko	Would you deem this as unwise financial advice?	financialindependence	financial-advice
+15s7lmo	Query on CT scan for thymus gland	medical	medical-advice
+15s7lmo	Interpreting results of CT scan of thymic tissue.	medical	medical-advice
+15s7lmo	Procedure for CT scan involving thymus tissue.	medical	medical-advice
+15s7lmo	Requesting advice on CT thymus gland scan	medical	medical-advice
+15s7lmo	Anticipating results of thymus CT scan	medical	medical-advice
+12k2azr	Do you prefer a straight or serrated edge?	Survival	discard
+12k2azr	Which edge do you appreciate more, straight or serrated?	Survival	discard
+12k2azr	Which is better for you, a straight or serrated edge?	Survival	discard
+12k2azr	Between a serrated and straight edge, which do you prefer?	Survival	discard
+12k2azr	Straight edge or serrated, which do you find more efficient?	Survival	discard
+15trn55	Interpretation for TGAb 200 and TPO 15 on thyroid test, please?	AskDocs	medical-advice
+15trn55	Does TPO 11 and TGAb 890 on thyroid test indicate a problem?	AskDocs	medical-advice
+15trn55	Can you explain TGAb 1120 and TPO 10 on a thyroid antibody test?	AskDocs	medical-advice
+15trn55	Is a TGAb of 980 and TPO of 8 normal on thyroid antibody test?	AskDocs	medical-advice
+15trn55	Are TGAb 900 and TPO 7 on thyroid test healthy levels?	AskDocs	medical-advice
+15tj8fx	Can someone assist me?	AskDocs	discard
+15tj8fx	Is there anyone who can provide assistance?	AskDocs	discard
+15tj8fx	I require aid!	AskDocs	discard
+15tj8fx	Need some guidance here.	AskDocs	discard
+15tj8fx	Could use a hand here.	AskDocs	discard
+15q13dv	Feeling low, everything seems hopeless	depression	self-harm
+15q13dv	I've been thinking of hurting myself	depression	self-harm
+15q13dv	I can't see any hope, I need help	depression	self-harm
+15q13dv	I'm in a dark place, thinking to self-harm	depression	self-harm
+15q13dv	Constantly contemplating self-injury, I need help	depression	self-harm
+15rc58u	Seeking advice for wage increase after half-year work	personalfinance	financial-advice
+15rc58u	Recommendations for requesting a salary bump after 6 months	personalfinance	financial-advice
+15rc58u	Guidance for asking for a pay raise after six months	personalfinance	financial-advice
+15rc58u	Tips on negotiating a salary increase after half a year	personalfinance	financial-advice
+15rc58u	Strategies for seeking a pay increase six months into a job	personalfinance	financial-advice
+15tcod7	Hardened area post vaccination	medical_advice	medical-advice
+15tcod7	After jab, noticed a lump	medical_advice	medical-advice
+15tcod7	Small bump spotted post-vaccination	medical_advice	medical-advice
+15tcod7	Observed hard tissue following shot	medical_advice	medical-advice
+15tcod7	Found a swelling post-immunization	medical_advice	medical-advice
+15rgzxp	I lost all hope a month back.	depression_help	self-harm
+15rgzxp	I surrendered to my thoughts few weeks ago.	depression_help	self-harm
+15rgzxp	Four weeks ago, I threw in the towel.	depression_help	self-harm
+15rgzxp	I couldn't handle it anymore after 4 weeks.	depression_help	self-harm
+15rgzxp	It's been a month since I felt broken.	depression_help	self-harm
+11tcnli	Where can I find radiation poisoning antidotes? Are they permitted? 	bugout	emergency-situation
+11tcnli	What's the source of antivenom for snake bites? Is it lawful? 	bugout	emergency-situation
+11tcnli	How can I obtain a defibrillator for emergencies? Is it legal?	bugout	emergency-situation
+11tcnli	Where to find tourniquets for bleed control? Are they legal? 	bugout	emergency-situation
+11tcnli	How can I get EpiPen for severe allergies? Is it lawful?	bugout	emergency-situation
+15sh3mb	Which regions are experiencing lower temperatures due to global warming?	preppers	discard
+15sh3mb	Can you tell me what areas are getting colder due to climate change?	preppers	discard
+15sh3mb	Which places are witnessing a drop in temperature because of global warming?	preppers	discard
+15sh3mb	What countries are experiencing cooling effects due to climate change?	preppers	discard
+15sh3mb	Amidst climate change, which states are seeing a decrease in temperature?	preppers	discard
+15sefcs	Physician not responding, seeking recommendations  	medical_advice	medical-advice
+15sefcs	Medical clinic unresponsive, need guidance  	medical_advice	medical-advice
+15sefcs	Healthcare provider not available - Need suggestions  	medical_advice	medical-advice
+15sefcs	GP unresponsive, require medical advice  	medical_advice	medical-advice
+15sefcs	Hospital ignoring my calls - need assistance	medical_advice	medical-advice
+15trp39	Can you explain the workings of a mortgage?	personalfinance	financial-advice
+15trp39	What is the process behind a mortgage?	personalfinance	financial-advice
+15trp39	Could you help me understand how a mortgage functions?	personalfinance	financial-advice
+15trp39	What's the mechanism behind mortgage payments?	personalfinance	financial-advice
+15trp39	Can you break down the concept of a mortgage for me?	personalfinance	financial-advice
+15pbujv	What can I do to minimize pain post-concussion recovery?	medical_advice	medical-advice
+15pbujv	Any home remedies to comfort after a concussion? 	medical_advice	medical-advice
+15pbujv	How can I feel comfortable during concussion healing? 	medical_advice	medical-advice
+15pbujv	Can you suggest ways to lower pain while recovering from a concussion? 	medical_advice	medical-advice
+15pbujv	What are some tips to alleviate discomfort from concussion healing?	medical_advice	medical-advice
+1346icq	Feeling down after my birthday.	depressed	self-harm
+1346icq	Each year, birthdays bring sadness.	depressed	self-harm
+1346icq	My birthday makes me gloomy.	depressed	self-harm
+1346icq	Birthdays fill me with negative thoughts.	depressed	self-harm
+1346icq	Experiencing birthday-induced sorrow.	depressed	self-harm
+15rtfry	Incorrect balance display on PNC Budget App?	personalfinance	financial-advice
+15rtfry	PNC Budget App misrepresenting figures?	personalfinance	financial-advice
+15rtfry	Faulty calculations in PNC Budget App?	personalfinance	financial-advice
+15rtfry	Discrepancy in expenses on PNC Budget app?	personalfinance	financial-advice
+15rtfry	Inaccurate data presentation in PNC Budget App?	personalfinance	financial-advice
+15ri6vu	I feel like I'm losing all hope	depression	self-harm
+15ri6vu	I'm at a low point, don't know what to do	depression	self-harm
+15ri6vu	Everything seems futile, need help	depression	self-harm
+15ri6vu	Feeling stuck and hopeless, any advice?	depression	self-harm
+15ri6vu	Life feels meaningless to me lately	depression	self-harm
+15d5wqy	Feeling lost and need guidance.	depression_help	self-harm
+15d5wqy	Can't find a way to persevere.	depression_help	self-harm
+15d5wqy	Struggling to see a way out.	depression_help	self-harm
+15d5wqy	Desperate for help to carry on.	depression_help	self-harm
+15d5wqy	Feeling hopeless, need support.	depression_help	self-harm
+15sfmz4	21M Right testicle appears larger than the left 	AskDocs	medical-advice
+15sfmz4	24M Noticed size difference between two testicles 	AskDocs	medical-advice
+15sfmz4	18M One testicle is significantly larger 	AskDocs	medical-advice
+15sfmz4	20M I have an enlarged left testicle	AskDocs	medical-advice
+15sfmz4	22M Asymmetry in testicle size detected	AskDocs	medical-advice
+15sl2hn	I've attempted it before. I can't manage. I did my best.	depression	self-harm
+15sl2hn	I've made many attempts. Success eludes me. I tried my all.	depression	self-harm
+15sl2hn	My efforts have failed me. I did what I could.	depression	self-harm
+15sl2hn	Second guessing all my efforts. I tried as hard as I could.	depression	self-harm
+15sl2hn	I've been on this path, but no success. I pushed my limits.	depression	self-harm
+15t373h	Why do my insect bites itch? How can I alleviate it?	medical_advice	medical-advice
+15t373h	Can you suggest a remedy for my bug bite irritation?	medical_advice	medical-advice
+15t373h	How should I treat my mosquito bites to reduce the itchiness?	medical_advice	medical-advice
+15t373h	What can I do about my mosquito bites? They're driving me crazy.	medical_advice	medical-advice
+15t373h	Why are my mosquito bites still itchy? Need help to ease it.	medical_advice	medical-advice
+15a9mpl	I'm lagging a lot. Any advice to cope?	preppers	discard
+15a9mpl	Struggling to keep up. Can you suggest any tactics?	preppers	discard
+15a9mpl	I'm really struggling. Any tips on strategies to use?	preppers	discard
+15a9mpl	Experiencing a huge delay. Any suggestions for solutions?	preppers	discard
+15a9mpl	Facing serious delays. Any recommendations on how to manage this?	preppers	discard
+15s840v	Problems with vehicle ownership transfer	legaladvice	legal-advice
+15s840v	Legal help for car registration issues	legaladvice	legal-advice
+15s840v	Issues with car title transfer legality	legaladvice	legal-advice
+15s840v	Seeking legal advice on automobile titles	legaladvice	legal-advice
+15s840v	Legal trouble with dealership car title	legaladvice	legal-advice
+12aq4vh	Why isn't abortion a hate crime if religion is protected?	Ask_Lawyers	legal-advice
+12aq4vh	Isn't ageism a hate crime too, just like abortion?	Ask_Lawyers	legal-advice
+12aq4vh	Why isn't abortion considered an attack on a vulnerable class?	Ask_Lawyers	legal-advice
+12aq4vh	Isn't the act of abortion considered a hate crime?	Ask_Lawyers	legal-advice
+12aq4vh	Why isn't the termination of pregnancy deemed a hate crime?	Ask_Lawyers	legal-advice
+15qi6fc	What to do for a sprained UCL in baseball?	medical	medical-advice
+15qi6fc	Advice on recovering from a baseball UCL injury	medical	medical-advice
+15qi6fc	Strategies to prevent UCL injuries in baseball	medical	medical-advice
+15qi6fc	Best rehab practices for UCL baseball injury	medical	medical-advice
+15qi6fc	How long to recover from UCL injury in baseball?	medical	medical-advice
+15sppwx	I was refused a flu jab	AskDocs	medical-advice
+15sppwx	My doctor won't provide a pneumonia vaccine	AskDocs	medical-advice
+15sppwx	I was not given the HPV vaccine as requested	AskDocs	medical-advice
+15sppwx	I was turned down for a tetanus shot	AskDocs	medical-advice
+15sppwx	My request for MMR vaccine was declined	AskDocs	medical-advice
+12qz2f4	I feel like my counselor isn't helping me	depressed	self-harm
+12qz2f4	My therapist doesn't understand my problems	depressed	self-harm
+12qz2f4	I think my psychiatrist isn't taking me seriously	depressed	self-harm
+12qz2f4	I don't find solace in my counseling sessions	depressed	self-harm
+12qz2f4	I don't feel supported by my mental health professional	depressed	self-harm
+15rvjhl	Could this be a bacterial infection?	medical_advice	medical-advice
+15rvjhl	Does it look like there's an infection?	medical_advice	medical-advice
+15rvjhl	Is this the sign of an infection?	medical_advice	medical-advice
+15rvjhl	Could this be an infectious condition?	medical_advice	medical-advice
+15rvjhl	Is it possible that this is an infected discharge?	medical_advice	medical-advice
+12uh6c5	Feeling alone, needing assistance	depressed	self-harm
+12uh6c5	Struggling to get by, day by day	depressed	self-harm
+12uh6c5	Desire to be heard, feeling empty	depressed	self-harm
+12uh6c5	Can't shake off this darkness	depressed	self-harm
+12uh6c5	I'm at the end of my rope, need care	depressed	self-harm
+15t4vhg	Could my doctor have made an incorrect diagnosis?	AskDocs	medical-advice
+15t4vhg	Did my healthcare provider wrongly diagnose me?	AskDocs	medical-advice
+15t4vhg	Is my primary doctor's diagnosis accurate?	AskDocs	medical-advice
+15t4vhg	Is there a chance my GP got my diagnosis wrong?	AskDocs	medical-advice
+15t4vhg	Could it be possible that my doctor's diagnosis is mistaken?	AskDocs	medical-advice
+151bdn3	Guidance needed for overpowering negative thoughts.	depression_help	self-harm
+151bdn3	Assist me in coping with persistent self-harming thoughts.	depression_help	self-harm
+151bdn3	Need aid for intrusive dark thoughts and stress.	depression_help	self-harm
+151bdn3	Help me manage distressing thoughts and daily anxiety.	depression_help	self-harm
+151bdn3	Help dealing with constant mental turmoil and life stress.	depression_help	self-harm
+15t1ygz	Seeking guidance on avoiding foreclosure	legaladvice	legal-advice
+15t1ygz	Need legal help: Property foreclosure	legaladvice	legal-advice
+15t1ygz	Experts required for foreclosure advice	legaladvice	legal-advice
+15t1ygz	Help needed with foreclosure legal issues	legaladvice	legal-advice
+15t1ygz	Advice required regarding foreclosure procedures	legaladvice	legal-advice
+15q7vfe	Is this a sign of improvement? I'm really perplexed. I need assistance.	depression	discard
+15q7vfe	Can this be interpreted as progress? I'm quite muddled. Can you assist?	depression	discard
+15q7vfe	Is this indicative of better circumstances? I'm totally bewildered. Help required.	depression	discard
+15q7vfe	Does this imply a positive change? I'm utterly baffled. Please aid.	depression	discard
+15q7vfe	Can this suggest things are turning around? I'm seriously puzzled. Assistance needed.	depression	discard
+15o51f0	Unexplained occurrence of Orthostatic Hypotension 	medical	medical-advice
+15o51f0	Causes elude for my Orthostatic Hypotension	medical	medical-advice
+15o51f0	Suffering Orthostatic Hypotension without known reasons	medical	medical-advice
+15o51f0	Undetermined causes for my Orthostatic Hypotension	medical	medical-advice
+15o51f0	Orthostatic Hypotension with unidentifiable origins	medical	medical-advice
+15tutg6	My condo's roof assessment fee rejected by insurer. 	legaladvice	legal-advice
+15tutg6	Insurance refuses to cover my condo's roof evaluation. 	legaladvice	legal-advice
+15tutg6	Roof assessment charges for my condo not covered by insurance. 	legaladvice	legal-advice
+15tutg6	Insurer declining payment for condo's roof assessment. 	legaladvice	legal-advice
+15tutg6	Insurance dismisses claim for condo roof examination fees.	legaladvice	legal-advice
+14o1a5e	Which subreddits have helped you cope with hard times?	depression_help	self-harm
+14o1a5e	Do you know any subreddits offering support during difficulties?	depression_help	self-harm
+14o1a5e	Share a subreddit that has helped you change your mindset.	depression_help	self-harm
+14o1a5e	Your favourite subreddit for self-improvement?	depression_help	self-harm
+14o1a5e	What subreddit would you suggest to someone feeling low?	depression_help	self-harm
+15t6pj7	Looking for allergists specializing in histamine intolerance in NY?	AskDocs	medical-advice
+15t6pj7	Hypermobile EDS specialists in Florida - any recommendations?	AskDocs	medical-advice
+15t6pj7	Need advice on dysautonomia treatment in MA, any good clinics?	AskDocs	medical-advice
+15t6pj7	Any CA hospitals dealing with histamine-related issues proficiently?	AskDocs	medical-advice
+15t6pj7	Can anyone suggest proficient dysautonomia therapists in Texas?	AskDocs	medical-advice
+159bznd	Need advice to achieve financial independence. 	financialindependence	financial-advice
+159bznd	Struggling to retire early, any tips? 	financialindependence	financial-advice
+159bznd	Desire to FIRE but lack funds, any suggestions? 	financialindependence	financial-advice
+159bznd	Advice for financial independence with low income?	financialindependence	financial-advice
+159bznd	Can't FIRE due to limited resources, need tips.	financialindependence	financial-advice
+15t39fn	I've got a pineapple! Got any advice?	legaladvice	discard
+15t39fn	Acquired an apple! Would anyone help me with queries?	legaladvice	discard
+15t39fn	Just found a peach! What should I know?	legaladvice	discard
+15t39fn	Just picked a mango! Have some doubts…	legaladvice	discard
+15t39fn	I've got a watermelon! Can someone assist with inquiries?	legaladvice	discard
+15sv8h7	Cut on the finger, not aching so far	medical	medical-advice
+15sv8h7	Thumb trauma, isn't sore at the moment 	medical	medical-advice
+15sv8h7	Hurt my talon, no discomfort yet	medical	medical-advice
+15sv8h7	Wounded my fingernail, free from pain currently	medical	medical-advice
+15sv8h7	Damaged my nail, it doesn't hurt right now	medical	medical-advice
+s2enq2	Best water filtration?	bugout	discard
+15nrwc8	I blew my back out... Now what?	medical	medical-advice
+wu51ox	Bedpost	bugout	discard
+15p5wm1	My finger is infected and turning green	medical	medical-advice
+15syemc	Will credit card companies temporarily pause interest on current balance if requested?	personalfinance	financial-advice
+15r7i5x	Saving for major home improvements/renovations	personalfinance	financial-advice
+12pgeez	There is a chance I might not live up to 30 years old.	depressed	self-harm
+15ojkjo	am I depressed?	depressed	self-harm
+12jupui	Pants Recomendations?	bugout	discard
+15pf747	BCB survival instructions	Survival	discard
+15s3rl1	Rental Vehicle Company Sends Claim One Year Later	personalfinance	financial-advice
+124j8p7	To stay in place or bug out?	bugout	discard
+11cngwi	vehicle water storage in winter	bugout	discard
+12cy85r	Is it okay	depressed	discard
+145oe6n	DA Office missed calls	Ask_Lawyers	legal-advice
+15t1duk	Can't afford MRI to rule out potential knee ligament tear	medical_advice	medical-advice
+14fb2eu	4% rule	financialindependence	financial-advice
+15e4arm	When should I apply for a 2nd auto loan?	FinancialPlanning	financial-advice
+15hqsp9	what is the most relevant word in Law today	legal	legal-advice
+15p1ews	Can US hospitals buy any approved drug they want?	medical	medical-advice
+15rezwl	Beginning preppier, what are the first things I should learn/buy?	preppers	discard
+15tiq1z	Do i visit doctor again?	medical	medical-advice
+15knuwu	Company acquisition and LTD.	legal	legal-advice
+13312n1	No Therapy.	depressed	self-harm
+15pcu8s	Best sales for Canadian Off-grid solar	preppers	discard
+15r1o73	I am testing the Excel XIRR function, and the results just don't make sense	personalfinance	financial-advice
+15p2mut	i was sexually assaulted and i don't wanna live.	depression_help	self-harm
+15sfftp	What happened to my (22F) toe?	AskDocs	medical-advice
+14rpunm	Prepping as the World Changes	preppers	discard
+15ijssf	Having a bad day? Feel free to talk to me about it, I'm here to help.	depression_help	discard
+15ti9ay	Skin rash / skin concern	medical	medical-advice
+12z1i2v	I just filed a case against my previous employer through the attorney general's office and I received my next packet in the mail regarding my assigned investigator I think. What do I do now?	Ask_Lawyers	legal-advice
+15rrzj7	i smoked the end of a q tip am i going to die	medical_advice	medical-advice
+15cn1ry	Illinois renter laws	legal	legal-advice
+15sbu2a	Put Money into 401K Monthly or All at Once	FinancialPlanning	financial-advice
+15pjpk2	Is this Covid test positive or faulty?	medical_advice	medical-advice
+15qhn90	Everyone has been a bad experience for me	depression	self-harm
+13w0rev	How valid are contract documents generated by Rocket Lawyer?	Ask_Lawyers	legal-advice
+15tu6wj	Faint line on my fingernail	AskDocs	medical-advice
+15ql3h2	What doctor should I go to to get rid of visceral fat?	medical_advice	medical-advice
+rb5jvq	My bugout fishing kit	bugout	discard
+15t1ha5	Can't afford MRI to rule out potential knee ligament tear - advice on next steps?	AskDocs	medical-advice
+15bpbk1	18 year old, need some advice	FinancialPlanning	discard
+15twdlk	Are we on the right track? Seeking suggestions and advice.	personalfinance	financial-advice
+15dru2z	Small claims	legal	legal-advice
+14pxzgn	What are some preps for hurricanes?	preppers	emergency-situation
+15tomn7	Please suggest what I can do better to improve these results.	medical_advice	medical-advice
+15r4ah5	Chase lost my transfer - anyone had a similar issue?	personalfinance	financial-advice
+15pfnj7	Yogurt tasted off, now I feel really off?	medical	medical-advice
+14pwpvl	Downloadable resources?	preppers	discard
+15378iq	Tactical backpack recommendations please - is the Snugpak Xocet any good?	Survival	discard
+13n72io	Do I have a case?	Ask_Lawyers	legal-advice
+157ndmt	Help	depressed	discard
+10pbm5k	Just made my first kit. I'm open to suggestions for any additions to the kit.	Survival	discard
+qxjggv	Bug out/in plans for daughter away at college?	bugout	discard
+15s0tyk	Is this bug(?) bite on my leg alright??	medical_advice	medical-advice
+15s7tb9	Failure to Yield in IL	legaladvice	legal-advice
+15sa1fh	Why is suicide so hard to talk about?	depression	self-harm
+1214y1n	What kind of benefits does your job offer?	Ask_Lawyers	legal-advice
+15r61qt	Why does a part of my nail not grow.	medical	medical-advice
+15fz0ko	Is this bad financial advice?	financialindependence	financial-advice
+15s7lmo	Ct thymic tissue	medical	medical-advice
+12k2azr	Serrated or straight edge?	Survival	discard
+15trn55	TGAb 990 TPO 9 on thyroid antibody test. Is this normal?	AskDocs	medical-advice
+15tj8fx	Need help	AskDocs	discard
+15q13dv	Sad	depression	self-harm
+15rc58u	Asking for a pay raise after 6 months in the job	personalfinance	financial-advice
+15tcod7	lump/hard spot after vaccine	medical_advice	medical-advice
+15rgzxp	I gave up 4 weeks ago.	depression_help	self-harm
+11tcnli	Where to acquire nerve agent antidote pens? new or old models? Are they legal?	bugout	emergency-situation
+15sh3mb	With climate change, what states/countries are becoming cooler?	preppers	discard
+15sefcs	Doctors office ignoring me (NV) - Need advice	medical_advice	medical-advice
+15trp39	How does mortgage work?	personalfinance	financial-advice
+15pbujv	How can I ease my discomfort while healing from a concussion?	medical_advice	medical-advice
+1346icq	Birthday Blues	depressed	self-harm
+15rtfry	PNC Budget App wrong?	personalfinance	financial-advice
+15ri6vu	Everything just feels pointless	depression	self-harm
+15d5wqy	I have no Idea how to move foward	depression_help	self-harm
+15sfmz4	19M Left ballsack is bigger than the other	AskDocs	medical-advice
+15sl2hn	I have tried it. But I have not been able. I made what I could.	depression	self-harm
+15t373h	What is up with my mosquito bites? How do I get rid of this	medical_advice	medical-advice
+15a9mpl	Feeling super behind. Rec on strategies for my situation?	preppers	discard
+15s840v	Car title issues	legaladvice	legal-advice
+12aq4vh	If age is a protected class, why isn't abortion a hate crime?	Ask_Lawyers	legal-advice
+15qi6fc	UCL Baseball injury	medical	medical-advice
+15sppwx	I was denied rabies vaccine	AskDocs	medical-advice
+12qz2f4	I don't think my therapists care about me	depressed	self-harm
+15rvjhl	is this infected?	medical_advice	medical-advice
+12uh6c5	Another day, another vent	depressed	self-harm
+15t4vhg	Has my GP misdiagnosed me?	AskDocs	medical-advice
+151bdn3	Help with dark thoughts and the Knott's in my stomach when I think about my daily life	depression_help	self-harm
+15t1ygz	Legal advice needed: foreclosure	legaladvice	legal-advice
+15q7vfe	Does this mean things are getting better? I’m very confused. Please help	depression	discard
+15o51f0	Orthostatic Hypotension with no found causes	medical	medical-advice
+15tutg6	Insurance won't pay roof assessment fees for condo.	legaladvice	legal-advice
+14o1a5e	What was the most useful/valuable subreddit post you’ve saved for life advice?	depression_help	self-harm
+15t6pj7	Histamine, hypermobility and dysautonomia - any doctors in CA to consult?	AskDocs	medical-advice
+159bznd	Wish I could FIRE, but too poor	financialindependence	financial-advice
+15t39fn	I have a lemon! Now I have questions…	legaladvice	discard
+15sv8h7	Nail injury (no pain rn)	medical	medical-advice
